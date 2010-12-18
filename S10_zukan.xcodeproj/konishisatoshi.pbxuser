@@ -1,0 +1,286 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* S10_zukanAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {488, 368}}";
+			sepNavSelRange = "{554, 0}";
+			sepNavVisRange = "{80, 562}";
+			sepNavWindowFrame = "{{38, 194}, {750, 558}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* S10_zukanAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 1490}}";
+			sepNavSelRange = "{80, 0}";
+			sepNavVisRange = "{0, 765}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* S10_zukan */ = {
+		activeExec = 0;
+		executables = (
+			75F2037712AA076300E03C95 /* S10_zukan */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 75F2037712AA076300E03C95 /* S10_zukan */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* S10_zukan */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* S10_zukan */,
+		);
+		codeSenseManager = 75F2038212AA078300E03C95 /* Code sense */;
+		executables = (
+			75F2037712AA076300E03C95 /* S10_zukan */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					340,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 314342609;
+			PBXWorkspaceStateSaveDate = 314342609;
+		};
+		perUserProjectItems = {
+			75851B0512BC73F200502A16 = 75851B0512BC73F200502A16 /* PBXTextBookmark */;
+			75851B0612BC73F200502A16 = 75851B0612BC73F200502A16 /* PBXTextBookmark */;
+			75851B2312BC7C2E00502A16 = 75851B2312BC7C2E00502A16 /* PBXTextBookmark */;
+			75851B2712BC7C4300502A16 = 75851B2712BC7C4300502A16 /* PBXTextBookmark */;
+			75F203C312AA0E3500E03C95 = 75F203C312AA0E3500E03C95 /* PBXTextBookmark */;
+			75F2041C12AA1B4A00E03C95 = 75F2041C12AA1B4A00E03C95 /* PBXTextBookmark */;
+			75F2041D12AA1B4A00E03C95 = 75F2041D12AA1B4A00E03C95 /* PBXTextBookmark */;
+			75F2041F12AA1B4A00E03C95 = 75F2041F12AA1B4A00E03C95 /* PBXTextBookmark */;
+			75F2043312AA26F100E03C95 = 75F2043312AA26F100E03C95 /* PBXTextBookmark */;
+			75F2043512AA26F100E03C95 = 75F2043512AA26F100E03C95 /* PBXTextBookmark */;
+			75F2043712AA26F100E03C95 = 75F2043712AA26F100E03C95 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 75F2038112AA078300E03C95 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	75851B0512BC73F200502A16 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* S10_zukanAppDelegate.m */;
+		name = "S10_zukanAppDelegate.m: 6";
+		rLen = 0;
+		rLoc = 80;
+		rType = 0;
+		vrLen = 765;
+		vrLoc = 0;
+	};
+	75851B0612BC73F200502A16 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 75F203BC12AA0D7900E03C95 /* S10_zukanMainViewController.m */;
+		name = "S10_zukanMainViewController.m: 16";
+		rLen = 0;
+		rLoc = 382;
+		rType = 0;
+		vrLen = 1130;
+		vrLoc = 224;
+	};
+	75851B2312BC7C2E00502A16 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 75F203B712AA0D5100E03C95 /* S10_zukanTitleViewController.m */;
+		name = "S10_zukanTitleViewController.m: 21";
+		rLen = 0;
+		rLoc = 531;
+		rType = 0;
+		vrLen = 745;
+		vrLoc = 55;
+	};
+	75851B2712BC7C4300502A16 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 75F203B712AA0D5100E03C95 /* S10_zukanTitleViewController.m */;
+		name = "S10_zukanTitleViewController.m: 21";
+		rLen = 0;
+		rLoc = 511;
+		rType = 0;
+		vrLen = 993;
+		vrLoc = 147;
+	};
+	75F2037712AA076300E03C95 /* S10_zukan */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = S10_zukan;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	75F2038112AA078300E03C95 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	75F2038212AA078300E03C95 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	75F203B612AA0D5100E03C95 /* S10_zukanTitleViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {432, 287}}";
+			sepNavSelRange = "{286, 0}";
+			sepNavVisRange = "{0, 293}";
+		};
+	};
+	75F203B712AA0D5100E03C95 /* S10_zukanTitleViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 1047}}";
+			sepNavSelRange = "{511, 0}";
+			sepNavVisRange = "{55, 727}";
+		};
+	};
+	75F203BB12AA0D7900E03C95 /* S10_zukanMainViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {425, 287}}";
+			sepNavSelRange = "{239, 22}";
+			sepNavVisRange = "{0, 268}";
+		};
+	};
+	75F203BC12AA0D7900E03C95 /* S10_zukanMainViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 823}}";
+			sepNavSelRange = "{382, 0}";
+			sepNavVisRange = "{224, 1130}";
+		};
+	};
+	75F203C312AA0E3500E03C95 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 75F203C412AA0E3500E03C95 /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 350;
+		vrLoc = 0;
+	};
+	75F203C412AA0E3500E03C95 /* main.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = main.m;
+		path = /Users/konishisatoshi/Desktop/Calculator/main.m;
+		sourceTree = "<absolute>";
+	};
+	75F2040712AA180000E03C95 /* S10_zukanMakeViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {425, 287}}";
+			sepNavSelRange = "{148, 0}";
+			sepNavVisRange = "{0, 268}";
+		};
+	};
+	75F2040812AA180000E03C95 /* S10_zukanMakeViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 836}}";
+			sepNavSelRange = "{222, 0}";
+			sepNavVisRange = "{719, 599}";
+		};
+	};
+	75F2041C12AA1B4A00E03C95 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 75F2040812AA180000E03C95 /* S10_zukanMakeViewController.m */;
+		name = "S10_zukanMakeViewController.m: 10";
+		rLen = 0;
+		rLoc = 222;
+		rType = 0;
+		vrLen = 599;
+		vrLoc = 719;
+	};
+	75F2041D12AA1B4A00E03C95 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 75F2040712AA180000E03C95 /* S10_zukanMakeViewController.h */;
+		name = "S10_zukanMakeViewController.h: 7";
+		rLen = 0;
+		rLoc = 148;
+		rType = 0;
+		vrLen = 268;
+		vrLoc = 0;
+	};
+	75F2041F12AA1B4A00E03C95 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* S10_zukanAppDelegate.h */;
+		name = "S10_zukanAppDelegate.h: 21";
+		rLen = 0;
+		rLoc = 554;
+		rType = 0;
+		vrLen = 562;
+		vrLoc = 80;
+	};
+	75F2043312AA26F100E03C95 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 75F203BB12AA0D7900E03C95 /* S10_zukanMainViewController.h */;
+		name = "S10_zukanMainViewController.h: 15";
+		rLen = 22;
+		rLoc = 239;
+		rType = 0;
+		vrLen = 268;
+		vrLoc = 0;
+	};
+	75F2043512AA26F100E03C95 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 75F2043612AA26F100E03C95 /* UIViewController.h */;
+		name = "UIViewController.h: 114";
+		rLen = 6;
+		rLoc = 4363;
+		rType = 0;
+		vrLen = 2545;
+		vrLoc = 3640;
+	};
+	75F2043612AA26F100E03C95 /* UIViewController.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIViewController.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h;
+		sourceTree = "<absolute>";
+	};
+	75F2043712AA26F100E03C95 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 75F203B612AA0D5100E03C95 /* S10_zukanTitleViewController.h */;
+		name = "S10_zukanTitleViewController.h: 16";
+		rLen = 0;
+		rLoc = 286;
+		rType = 0;
+		vrLen = 293;
+		vrLoc = 0;
+	};
+}
